@@ -1,3 +1,2 @@
-def printer:
-	print('Hello World!!')
-	print('Hello Github!!')
+def printer(text):
+  print(text + " Welcome")
