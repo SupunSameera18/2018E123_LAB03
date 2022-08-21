@@ -1,2 +1,2 @@
 def printer(text):
-  print(text + " Welcome")
+  print(text + " Welcome to git")
